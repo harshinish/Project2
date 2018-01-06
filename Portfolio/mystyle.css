@@ -12,6 +12,11 @@ header{
     margin: -8px -9px;
 }
 
+footer {
+    color: red;
+    font-size: 32px;
+}
+
 h2 {
     font-size: 31.5px;
     line-height: 40px;
